@@ -1,0 +1,7 @@
+#[uBlacklist]
+# Title: Arabic uBlacklist list
+# Homepage: https://github.com/MohamedElashri/ar-ublacklist
+# Description: Arabic websites filter using uBlacklist
+
+*://www.s-ajfan.com/*
+*://sm3ha.ws/*
